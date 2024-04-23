@@ -1,0 +1,29 @@
+pluginManagement {
+    repositories {
+        google()
+        //noinspection JcenterRepositoryObsolete
+        jcenter()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url "https://appsafetytech.jfrog.io/artifactory/appsafety-safesdk-android/" }
+
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        //noinspection JcenterRepositoryObsolete
+        jcenter()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url "https://appsafetytech.jfrog.io/artifactory/appsafety-safesdk-android/" }
+
+
+    }
+}
+rootProject.name = "datfile viewr"
+include ':app'
+include ':safesdk'
+include ':safesdk'

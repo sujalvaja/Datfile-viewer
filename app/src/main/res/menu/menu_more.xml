@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/delete_id"
+        android:title="Delete File"
+        app:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/share_id"
+        android:enabled="true"
+        android:title="Share File" />
+    <item
+        android:id="@+id/fav_id"
+        android:enabled="true"
+        android:title="Add to Favourite" />
+</menu>

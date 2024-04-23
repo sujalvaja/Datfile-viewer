@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Datfile viewer</string>
+
+    <string name="share_file">Share File</string>
+    <string name="add_to_favourite">Add to Favourite</string>
+    <string name="delete_file">Delete File</string>
+    <string name="remove_from_favourite">Remove from Favourite</string>
+    <string name="filename_dat">Filename.dat</string>
+    <string name="Filename_dat">Filename.dat</string>
+    <string name="dat_file_viewer">Dat File Viewer</string>
+    <string name="enter_file_name">Enter File Name Here</string>
+    <string name="save">SAVE</string>
+    <string name="subtitle_main">subtitle_main</string>
+    <string name="categories">Categories</string>
+    <string name="select_dat_file">SELECT DAT FILE</string>
+    <string name="recent_files">Recent Files</string>
+    <string name="favourites">FAVOURITE</string>
+    <string name="title_favourite">FAVOURITE</string>
+    <string name="title_main">VIEWER</string>
+    <string name="enter_text_here">Enter text here...</string>
+    <string name="save_file">SAVE FILE</string>
+    <string name="convert_to_pdf">Convert to Pdf</string>
+    <string name="recent_files_title">RECENT FILES</string>
+    <string name="save_as_pdf">SAVE AS PDF</string>
+    <string name="open">OPEN</string>
+    <string name="dat_file">.DAT FILE</string>
+    <string name="todo">TODO</string>
+    <string name="yes">Yes</string>
+    <string name="no">NO</string>
+
+</resources>
